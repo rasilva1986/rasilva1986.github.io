@@ -1,0 +1,29 @@
+header { background: #3A4152; padding: 1px; margin-bottom: 0%; }
+
+header nav ul li { display: inline; margin-left: 1em; }
+
+header a { color: #ffffff; text-decoration: none; text-transform: uppercase; font-size: 18px; }
+
+#showcase { min-height: 130px; background: url("/assets/img/gradient.png") no-repeat; text-align: center; color: #ffffff; }
+
+#showcase .container { width: 80%; margin: auto; overflow: hidden; }
+
+#showcase .container h1 { display: block; font: 3em Arial, Helvetica,sans-serif; }
+
+#content-section p { margin-top: 0em; color: #000000; }
+
+#boxes { margin-top: 20px; margin-bottom: 20px; width: 70%; margin-right: auto; margin-left: auto; }
+
+#boxes .box div h3 { background: pink; text-align: center; }
+
+#boxes .box img { height: 130px; width: 130px; display: block; margin-left: auto; margin-right: auto; }
+
+#boxes .box p { text-align: justify; }
+
+.home { width: 70%; margin-right: auto; margin-left: auto; }
+
+footer { background: #3A4152; }
+
+footer p { margin-top: 3em; padding: 0.6em; color: #ffffff; text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
