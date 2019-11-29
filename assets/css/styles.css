@@ -22,6 +22,8 @@ header a { color: #ffffff; text-decoration: none; text-transform: uppercase; fon
 
 .home { width: 70%; margin-right: auto; margin-left: auto; }
 
+#disqus_thread { width: 70%; margin-right: auto; margin-left: auto; }
+
 footer { background: #3A4152; }
 
 footer p { margin-top: 3em; padding: 0.6em; color: #ffffff; text-align: center; }
