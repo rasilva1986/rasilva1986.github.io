@@ -1,0 +1,6 @@
+/* TEAM */
+Rafael Silva.
+rasilva.1986@gmail.com
+Stockholm, Sweden.
+
+This Jekyll site was created as a partial requirement for the course 1DV022 - Client-based programming for the program Utveckling och drift av mjukvarusystem at LNU in Sweden.
